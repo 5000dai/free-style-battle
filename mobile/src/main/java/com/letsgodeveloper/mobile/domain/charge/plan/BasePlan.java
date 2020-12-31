@@ -1,4 +1,4 @@
-package com.letsgodeveloper.mobile.domain.charge;
+package com.letsgodeveloper.mobile.domain.charge.plan;
 
 /**
  * 基本プラン
