@@ -1,0 +1,9 @@
+{
+  "base_plan" : "レッツゴーデベロッパー_X_プラン",
+  "data_plan" : "仮面データパックLL",
+  "options" : {
+    "option_a" : false,
+    "option_b" : true,
+    "option_c" : false
+  }
+}
